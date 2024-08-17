@@ -17,7 +17,7 @@
 ---
 ### :woman_technologist: Обо мне:
 Меня зовут Никита, и я Python Backend разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: 1,5 года занимаюсь Backend разработкой на языке программирования Python. Стэк: Django, FastApi, Python, Flask, AIogram
+- :telescope: 3 года занимаюсь Backend разработкой на языке программирования Python. Стэк: Django, FastApi, AIogram
 
 - :seedling: На данный момент ищу работу в компании, так как считаю, что мой хоть и небольшой опыт в разработке поможет сделать ваш продукт лучше и занять высокие позиции на рынке.
 
