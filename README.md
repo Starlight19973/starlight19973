@@ -1,41 +1,23 @@
-### Hi there 👋
+### Hi, I'm Nikita 👋
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/12BYUePgtn7sis/giphy.gif" width="300"/>
-</div>
+**Python Backend Developer** · 4+ years building production systems for fintech and B2B SaaS.
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/nikita-minin/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+🔭 Currently at **OOO Сэйлбот** — backend for banking automation and a cloud accounting SaaS (Конто).
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+#### Stack
 
----
-### :woman_technologist: Обо мне:
-Меня зовут Никита, и я Python Backend разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: 3 года занимаюсь Backend разработкой на языке программирования Python. Стэк: Django, FastApi, AIogram
+**Backend:** Python · FastAPI · Quart · Django · async/await · Pydantic
+**Data:** PostgreSQL · Redis · SQLAlchemy 2.0 · AsyncPG · Alembic
+**Infra:** Docker · Linux · CI/CD · Sentry · Prometheus
+**Integrations:** aiogram · OpenAI API · RAG · REST · XML/XSD · Banking APIs
 
-- :seedling: На данный момент ищу работу в компании, так как считаю, что мой хоть и небольшой опыт в разработке поможет сделать ваш продукт лучше и занять высокие позиции на рынке.
+#### Selected work
 
-- Контакты:
-- Telegram: @minin2728
-- WhatsApp: +79112099767
-- E-Mail: mininnikita030@gmail.com
+- **[QwenScan](https://github.com/Starlight19973/QwenScan)** — Document OCR system on Qwen3-VL VLM with FastAPI batch processing
+- **[delaem_ai](https://github.com/Starlight19973/delaem_ai)** — AI platform for job matching
+- **[salvik_site](https://github.com/Starlight19973/salvik_site)** — TypeScript / Next.js site
+- **[pdf-neuro-bot](https://github.com/Starlight19973/pdf-neuro-bot)** — Telegram bot for PDF summarization via Gemini
 
----
+#### Contact
 
-### :hammer_and_wrench: Программы и языки :
-
- <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg)https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-</div>
-
-
-
-
-
+[Telegram @minin2728](https://t.me/minin2728) · minin9584@gmail.com
